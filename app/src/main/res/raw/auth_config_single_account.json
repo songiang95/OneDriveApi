@@ -1,0 +1,13 @@
+{
+  "client_id" : "8d3b85c1-6b69-47ca-9973-f9af3dcd4a75",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "https://login.microsoftonline.com/common/oauth2/nativeclient",
+  "account_mode" : "SINGLE",
+  "broker_redirect_uri_registered": true,
+  "authorities" : [
+    {
+      "type": "AAD",
+      "authority_url": "https://login.microsoftonline.com/common"
+    }
+  ]
+}

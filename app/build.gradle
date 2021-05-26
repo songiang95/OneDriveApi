@@ -67,4 +67,8 @@ dependencies {
     //Coroutine
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.0-RC"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.0-RC"
+
+    //MS auth support
+    implementation 'com.microsoft.identity.client:msal:2+'
+    implementation "com.microsoft.device.display:display-mask:0.3.0"
 }
