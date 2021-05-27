@@ -71,4 +71,7 @@ dependencies {
     //MS auth support
     implementation 'com.microsoft.identity.client:msal:2+'
     implementation "com.microsoft.device.display:display-mask:0.3.0"
+
+    //chrome custom tab
+    implementation "androidx.browser:browser:1.3.0"
 }
